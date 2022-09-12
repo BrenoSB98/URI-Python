@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# Problema do Uri Online Judge: 2787 - Xadrez
+# Problema do Beecrowd: 2787 - Xadrez
 
 # Lendo quantas linhas e colunas que há no tabuleiro de xadrez.
 linhas_tabuleiro = int(input())

@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# Problema do Uri Online Judge: 2296 - Trilhas
+# Problema do Beecrowd: 2296 - Trilhas
 
 import sys
 
@@ -9,7 +9,7 @@ n = int(input())
 # Variaveis para resolução
 menor_trilha = sys.maxsize
 indice_final = -1
-cont = 0 # Variavel contadara
+cont = 0 # Variavel contadora
 
 # Primeiro verifica se existem trilhas e se são menores que o valor maximo
 if n > 0 and n <= 100:

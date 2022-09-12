@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# Problema do Uri Online Judge: 2286 - Par ou Impar
+# Problema do Beecrowd: 2286 - Par ou Impar
 
 # n <- O número de Partidas
 n = int(input())

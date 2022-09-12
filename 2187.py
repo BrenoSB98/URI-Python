@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# Problema do Uri Online Judge: 2187 - Bits Trocados
+# Problema do Beecrowd: 2187 - Bits Trocados
 
 # V <- O valor solicitado pelo cliente.
 V = int(input())
