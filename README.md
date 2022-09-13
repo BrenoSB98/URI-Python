@@ -1,7 +1,7 @@
 # Beecrowd em Python
 
 * Nesse repositório esta armazenado os códigos fontes dos problemas resolvidos por mim no site [Beecrowd](https://www.beecrowd.com.br).
-* Os códigos alocados aqui estão execlusivamente escritos em Python 3 <img align="center" alt="Breno-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+* Os códigos alocados aqui estão exclusivamente escritos em Python 3 <img align="center" alt="Breno-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 * Meu perfil Beecrowd: <a href="https://www.beecrowd.com.br/judge/pt/profile/515847" target="_blank"><img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" target="_blank"></a>
 
 ## Meus contatos
